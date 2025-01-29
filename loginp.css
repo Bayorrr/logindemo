@@ -9,7 +9,9 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(bg.jpg) no-repeat;
+    background: url(./bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .wrapper{
     width: 420px;
